@@ -20,7 +20,7 @@ export default function Navbar() {
             <li key={link.href}>
                 <Link 
                     href={link.href}
-                    className={isActive ? activeStyle : "text-black"}
+                    className={isActive ? activeStyle : ""}
                 >
                     {link.label}
                 </Link>

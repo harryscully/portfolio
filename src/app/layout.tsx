@@ -8,9 +8,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="m-10 flex gap-10">
-        <Navbar />
-        {children}
+      <body className="text-neutral-800">
+        <div className="m-16 flex gap-16">
+          <div className="flex flex-col gap-8 items-center">
+            <a href="/">harryscully.com</a>
+            <Navbar />
+          </div>
+          {children}
+        </div>
       </body>
     </html>
   );
