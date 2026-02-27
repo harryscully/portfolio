@@ -1,14 +1,37 @@
-import React from "react"
+"use client"
+
 import Link from "next/link"
+import { usePathname } from 'next/navigation'
+
+const links = [
+    {href: '/', label: "About"},
+    {href: '/projects', label: "Projects"},
+    {href: '/cv', label: "CV"},
+    {href: '/hobbies', label: "Hobbies"}
+]
 
 export default function Navbar() {
+    const pathname = usePathname()
+    const activeStyle = "text-green-600 font-bold"
+
+    const linkElements = links.map( (link) => {
+        const isActive = pathname === link.href
+        return (
+            <li key={link.href}>
+                <Link 
+                    href={link.href}
+                    className={isActive ? activeStyle : "text-black"}
+                >
+                    {link.label}
+                </Link>
+            </li>
+        )
+    })
+
     return (
         <nav>
-            <ul>
-                <li><Link href="/">About</Link></li>
-                <li><Link href="/projects">Projects</Link></li>
-                <li><Link href="/cv">CV</Link></li>
-                <li><Link href="/hobbies">Hobbies</Link></li>
+            <ul className="flex flex-col gap-8">
+                {linkElements}
             </ul>
         </nav>
     )
