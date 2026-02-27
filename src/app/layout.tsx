@@ -1,5 +1,5 @@
 import "./globals.css";
-import Navbar from "./components/Navbar"
+import Navbar from "@/components/Navbar"
 
 export default function RootLayout({
   children,
@@ -11,7 +11,12 @@ export default function RootLayout({
       <body className="text-neutral-800">
         <div className="m-16 flex gap-16">
           <div className="flex flex-col gap-8 items-center">
-            <a href="/">harryscully.com</a>
+            <a 
+              className="tracking-widest"
+              href="/"
+            >
+              harryscully.com
+            </a>
             <Navbar />
           </div>
           {children}
