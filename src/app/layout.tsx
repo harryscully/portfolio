@@ -1,5 +1,7 @@
 import "./globals.css";
+import consoleIcon from "../../public/console_prompt-0.png"
 import Navbar from "@/components/Navbar"
+import Image from "next/image"
 
 export default function RootLayout({
   children,
@@ -17,6 +19,7 @@ export default function RootLayout({
             >
               harryscully.com
             </a>
+            <Image src={consoleIcon} alt="console windows 98 icon" className="h-10 w-10"/>
             <Navbar />
           </div>
           {children}
