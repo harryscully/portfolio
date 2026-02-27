@@ -5,10 +5,10 @@ export default function Navbar() {
     return (
         <nav>
             <ul>
-                <li><Link href="#">About</Link></li>
-                <li><Link href="#">Projects</Link></li>
-                <li><Link href="#">CV</Link></li>
-                <li><Link href="#">Hobbies</Link></li>
+                <li><Link href="/">About</Link></li>
+                <li><Link href="/projects">Projects</Link></li>
+                <li><Link href="/cv">CV</Link></li>
+                <li><Link href="/hobbies">Hobbies</Link></li>
             </ul>
         </nav>
     )
