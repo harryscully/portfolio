@@ -9,7 +9,7 @@ const OMDB_API_KEY = process.env.OMDB_API_KEY
 async function getPosters() {
   const filmsWithPosters = await Promise.all(films.map(async (film) => {
     const res = await fetch(
-      `https://www.omdbapi.com/?t=${encodeURIComponent(film.Name)}&apikey=${OMDB_API_KEY}`
+      `https://www.omdbapi.com/?t=${encodeURIComponent(film.Name)}&y=${film.Year}&apikey=${OMDB_API_KEY}`
     )
     const data = await res.json()
 
