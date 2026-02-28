@@ -5,9 +5,15 @@ import Link from "next/link"
 export default function HobbiesPage() {
     return (
         <div className="flex flex-col gap-6 w-120">
-            <Link className="flex justify-start gap-4" href="/hobbies/films">
+            <Link
+                className="flex items-center gap-4 p-4 border border-green-600 hover:bg-green-100 hover:text-green-600 transition-colors duration-200 cursor-pointer"
+                href="/hobbies/films"
+            >
                 <Image className="h-8 w-8" src={movieIcon} alt="cd windows 98 icon" />
-                <h2 className="font-semibold text-xl">Films</h2>
+                <div>
+                    <h2 className="font-semibold text-xl">Films</h2>
+                    <p className="text-sm">Everything I've watched, organised by year</p>
+                </div>
             </Link>
         </div>
     )
