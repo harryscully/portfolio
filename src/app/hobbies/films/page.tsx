@@ -13,8 +13,8 @@ export default function Films() {
                     <div className="grid grid-cols-10 gap-4">
                         {films.map(film => {
                             return (
-                                <a href={film["Letterboxd URI"]} target="_blank" title={film.Name}>
-                                    <Image key={film["Letterboxd URI"]} width={80} height={120} src={film?.poster ? film.poster : ""} alt={`film poster for ${film.Name}`} />
+                                <a key={film["Letterboxd URI"]} href={film["Letterboxd URI"]} target="_blank" title={film.Name}>
+                                    <Image width={80} height={120} src={film?.poster ? film.poster : ""} alt={`film poster for ${film.Name}`} />
                                 </a>
                             )
                         })}
