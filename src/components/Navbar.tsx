@@ -15,7 +15,11 @@ export default function Navbar() {
     const activeStyle = "text-green-600 font-bold"
 
     const linkElements = links.map( (link) => {
-        const isActive = pathname === link.href
+        const isActive =
+            link.href === "/" ?
+            pathname === link.href :
+            pathname.startsWith(link.href) 
+
         return (
             <li key={link.href}>
                 <Link 
