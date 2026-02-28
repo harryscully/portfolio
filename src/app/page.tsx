@@ -1,6 +1,12 @@
 import profilePic from "../../public/me.jpg"
 import folderIcon from "../../public/directory-closed-5.png"
 import Image from "next/image"
+import type { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "harry scully",
+  description: "Fullstack developer, quiz enthusiast, film watcher"
+}
 
 const links = [
   { href: "mailto:harrywscully9@gmail.com", label: "mail" },

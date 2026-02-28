@@ -1,6 +1,11 @@
 import movieIcon from "../../../public/cd_drive_purple-0.png"
 import Image from "next/image"
 import Link from "next/link"
+import type { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "hobbies"
+}
 
 export default function HobbiesPage() {
     return (

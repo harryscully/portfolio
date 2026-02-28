@@ -1,5 +1,10 @@
 import Image from "next/image"
 import { getFilmsByYear } from "../../../utils/filmUtils"
+import type { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "films"
+}
 
 const filmsByYear = getFilmsByYear()
 

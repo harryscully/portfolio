@@ -3,6 +3,15 @@ import consoleIcon from "../../public/console_prompt-0.png"
 import Navbar from "@/components/Navbar"
 import Image from "next/image"
 import Link from "next/link"
+import type { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: {
+    default: "harry scully",
+    template: "%s | harry scully"
+  },
+  description: "Fullstack developer, quiz enthusiast, film watcher"
+}
 
 export default function RootLayout({
   children,
