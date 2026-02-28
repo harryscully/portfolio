@@ -1,5 +1,6 @@
 import Image from "next/image"
 import { getFilmsByYear } from "../../../utils/filmUtils"
+import Link from "next/link"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -30,7 +31,7 @@ export default function Films() {
 
     return (
         <div className="flex flex-col gap-8">
-            <h1>Films</h1>
+            <h1><Link className="hover:underline underline-offset-4 decoration-2" href="/hobbies">Hobbies</Link> / Films</h1>
             <div className="flex flex-col gap-4">
                 {filmElements}
             </div>
