@@ -44,8 +44,11 @@ export default function Films() {
         })
 
     return (
-        <div className="flex flex-col gap-4">
-            {filmElements}
+         <div className="flex flex-col gap-8">
+            <h1>Films</h1>
+            <div className="flex flex-col gap-4">
+                {filmElements}
+            </div>
         </div>
     )
 }
