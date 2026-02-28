@@ -1,29 +1,9 @@
-import films from "../../../data/films.json"
 import Image from "next/image"
+import { getFilmsByYear } from "../../../utils/filmUtils"
+
+const filmsByYear = getFilmsByYear()
 
 export default function Films() {
-
-    const filmsByYear: Record<string, typeof films> = {}
-    const filmsWithPosters = films.filter(film => film.poster)
-    for (const film of filmsWithPosters) {
-        const year = film.Date.split("/")[2]
-
-        if (!filmsByYear[year]) {
-            filmsByYear[year] = []
-        }
-
-        filmsByYear[year].push(film)
-    }
-
-    for (const year in filmsByYear) {
-        filmsByYear[year].sort((a, b) => {
-            const [aDay, aMonth, aYear] = a.Date.split("/")
-            const [bDay, bMonth, bYear] = b.Date.split("/")
-            return new Date(`${bYear}-${bMonth}-${bDay}`).getTime() -
-                new Date(`${aYear}-${aMonth}-${aDay}`).getTime()
-        })
-    }
-
     const filmElements = Object.entries(filmsByYear)
         .sort(([a], [b]) => Number(b) - Number(a))
         .map(([year, films]) => {
@@ -44,7 +24,7 @@ export default function Films() {
         })
 
     return (
-         <div className="flex flex-col gap-8">
+        <div className="flex flex-col gap-8">
             <h1>Films</h1>
             <div className="flex flex-col gap-4">
                 {filmElements}
