@@ -19,7 +19,7 @@ export default function RootLayout({
             >
               harryscully.com
             </a>
-            <Image src={consoleIcon} alt="console windows 98 icon" className="h-10 w-10"/>
+            <Image src={consoleIcon} alt="console windows 98 icon" className="h-8 w-8"/>
             <Navbar />
           </div>
           {children}
