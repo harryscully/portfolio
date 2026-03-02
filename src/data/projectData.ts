@@ -10,7 +10,7 @@ export const projects: Project[] = [
     {
     title: "harryscully.com",
     url: "https://harryscully.com",
-    date: "2026–present",
+    date: "2026 – present",
     description: "The site you're looking at. Personal portfolio and hobby site.",
     tech: ["Next.js", "TypeScript", "Tailwind"]
   },
