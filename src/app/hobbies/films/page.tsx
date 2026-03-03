@@ -30,7 +30,7 @@ export default function Films() {
         })
 
     return (
-        <div className="flex flex-col gap-8">
+        <div className="flex flex-col gap-8 max-w-xl">
             <h1><Link className="hover:underline underline-offset-4 decoration-2" href="/hobbies">Hobbies</Link> / Films</h1>
             <div className="flex flex-col gap-4">
                 {filmElements}

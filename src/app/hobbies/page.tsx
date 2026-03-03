@@ -9,9 +9,9 @@ export const metadata: Metadata = {
 
 export default function HobbiesPage() {
     return (
-        <div className="flex flex-col w-full md:w-130 gap-8">
+        <div className="flex flex-col w-full max-w-xl gap-8">
             <h1>Hobbies</h1>
-            <div className="flex flex-col gap-6 w-full md:w-130">
+            <div className="flex flex-col gap-6">
                 <Link
                     className="flex items-center gap-4 p-4 border border-green-600 hover:bg-green-100 hover:text-green-600 transition-colors duration-200 cursor-pointer"
                     href="/hobbies/films"

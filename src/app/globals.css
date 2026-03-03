@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+html {
+  overflow-x: hidden;
+  scrollbar-gutter: stable;
+}
+
 h1 {
   font-size: 1.875rem
 }
