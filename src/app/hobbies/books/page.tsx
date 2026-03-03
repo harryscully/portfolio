@@ -20,7 +20,7 @@ export default function Books() {
                         {books.map(book => {
                             return (
                                 <a key={book.book_id} href={book.link} target="_blank" title={book.title}>
-                                    <Image className="w-full h-auto" width={80} height={120} src={book.book_image_url} alt={`film poster for ${book.title}`} />
+                                    <Image className="w-full h-auto" width={80} height={120} src={book.book_large_image_url} alt={`film poster for ${book.title}`} />
                                 </a>
                             )
                         })}

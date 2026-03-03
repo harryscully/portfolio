@@ -22,6 +22,16 @@ export default function HobbiesPage() {
                         <p className="text-sm">Everything I've watched, organised by year</p>
                     </div>
                 </Link>
+                <Link
+                    className="flex items-center gap-4 p-4 border border-green-600 hover:bg-green-100 hover:text-green-600 transition-colors duration-200 cursor-pointer"
+                    href="/hobbies/books"
+                >
+                    <Image className="h-8 w-8" src={movieIcon} alt="cd windows 98 icon" />
+                    <div>
+                        <h2 className="font-semibold text-xl">Books</h2>
+                        <p className="text-sm">Everything I've read, organised by year</p>
+                    </div>
+                </Link>
             </div>
         </div>
     )
