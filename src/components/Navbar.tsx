@@ -34,7 +34,7 @@ export default function Navbar() {
 
     return (
         <nav>
-            <ul className="flex flex-col gap-8">
+            <ul className="flex gap-4 md:flex-col md:gap-8">
                 {linkElements}
             </ul>
         </nav>
