@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# harryscully.com
 
-## Getting Started
+My personal portfolio and hobby site, built with Next.js and Tailwind CSS.
 
-First, run the development server:
+## Built with
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- Next.js 15 (App Router)
+- TypeScript
+- Tailwind CSS
+
+## Structure
+```
+src/
+├── app/
+│   ├── cv/
+│   ├── hobbies/
+│   │   └── films/
+│   ├── projects/
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   └── Navbar.tsx
+├── data/
+│   ├── cvData.ts
+│   ├── films.json
+│   └── projectData.ts
+└── utils/
+    └── filmUtils.ts
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Pages
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **/** — About me
+- **/projects** — Coding projects
+- **/cv** — Work and education history
+- **/hobbies/films** — Every film I've watched, organised by year
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Commands
 
-## Learn More
+All commands are run from the root of the project:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Command | Action |
+| :--- | :--- |
+| `npm run dev` | Starts local dev server at localhost:3000 |
+| `npm run build` | Builds the app for production |
+| `npm run start` | Starts the production server |
