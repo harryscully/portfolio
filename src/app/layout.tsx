@@ -21,15 +21,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="text-neutral-800">
-        <div className="m-16 flex gap-16">
-          <div className="flex flex-col gap-8 items-center">
+        <div className="m-16 flex flex-col gap-16 md:flex-row">
+          <div className="flex flex-col gap-2 items-center md:gap-8">
             <Link 
               className="tracking-widest"
               href="/"
             >
               harryscully.com
             </Link>
-            <Image src={consoleIcon} alt="console windows 98 icon" className="h-8 w-8"/>
+            <Image src={consoleIcon} alt="console windows 98 icon" className="h-8 w-8 mb-6 md:m-0"/>
             <Navbar />
           </div>
           {children}
