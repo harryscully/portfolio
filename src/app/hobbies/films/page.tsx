@@ -16,11 +16,11 @@ export default function Films() {
             return (
                 <section key={year}>
                     <h2 className="my-6">{year}</h2>
-                    <div className="grid grid-cols-10 gap-4">
+                    <div className="grid grid-cols-3 sm:grid-cols-5 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-4">
                         {films.map(film => {
                             return (
                                 <a key={film["Letterboxd URI"]} href={film["Letterboxd URI"]} target="_blank" title={film.Name}>
-                                    <Image width={80} height={120} src={film?.poster ? film.poster : ""} alt={`film poster for ${film.Name}`} />
+                                    <Image className="w-full h-auto" width={80} height={120} src={film?.poster ? film.poster : ""} alt={`film poster for ${film.Name}`} />
                                 </a>
                             )
                         })}
