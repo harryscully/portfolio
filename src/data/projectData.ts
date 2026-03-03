@@ -16,7 +16,7 @@ export const projects: Project[] = [
   },
   {
     title: "Quiz App",
-    url: "https://harryscully.github.io/Quiz-App",
+    url: "https://harryscully.github.io/quiz-app",
     date: "2026",
     description: "My first React project — a multiple choice trivia app fetching questions from the Open Trivia DB API, with confetti on a perfect score.",
     tech: ["React", "JavaScript"]

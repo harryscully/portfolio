@@ -34,7 +34,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col w-full gap-16 md:flex-row md:justify-start">
-      <div className="flex flex-col w-full md:w-130 gap-8">
+      <div className="flex flex-col w-full max-w-xl gap-8">
         <h1>About</h1>
         <ul className="flex gap-4 md:gap-6">
           {linkElements}
