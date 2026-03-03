@@ -34,7 +34,7 @@ export default function CVPage() {
     ))
 
     return (
-        <div className="flex flex-col w-130 gap-10">
+        <div className="flex flex-col w-full gap-10 md:w-130">
             <h1>CV</h1>
 
             <div className="flex flex-col gap-6">
