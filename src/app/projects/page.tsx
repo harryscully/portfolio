@@ -20,10 +20,10 @@ export default function ProjectPage() {
     ))
 
     return (
-        <div className="flex flex-col w-130 gap-8">
+        <div className="flex flex-col w-full gap-8 md:w-130">
             <h1>Projects</h1>
-            <p className="text-neutral-500 leading-7">A mix of personal projects and learning exercises — some built while working through courses, others just for fun.</p>
-            <div className="flex flex-col gap-6 w-130">
+            <p className="text-neutral-500 leading-7">A mix of personal projects and learning exercises - some built while working through courses, others just for fun.</p>
+            <div className="flex flex-col gap-6 w-full md:w-130">
                 {projectsElements}
             </div>
         </div>
