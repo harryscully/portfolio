@@ -20,8 +20,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="text-neutral-800">
-        <div className="m-16 flex flex-col gap-16 md:flex-row">
+      <body className="text-neutral-800 w-screen px-6 md:px-16">
+        <div className="flex flex-col gap-16 md:flex-row py-8 md:py-16">
           <div className="flex flex-col gap-2 items-center md:gap-8">
             <Link 
               className="tracking-widest"

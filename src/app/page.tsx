@@ -18,7 +18,7 @@ const links = [
 export default function Home() {
   const linkElements = links.map((link) => {
     return (
-      <li className="flex gap-4 items-center" key={link.href}>
+      <li className="flex gap-2 md:gap-4 items-center" key={link.href}>
         <Image className="w-4 h-4" src={folderIcon} alt="folder windows 98 icon" />
         <a
           target="_blank"
@@ -33,10 +33,10 @@ export default function Home() {
   )
 
   return (
-    <div className="flex gap-16 justify-start">
-      <div className="flex flex-col w-130 gap-8">
+    <div className="flex flex-col w-full gap-16 md:flex-row md:justify-start">
+      <div className="flex flex-col w-full md:w-130 gap-8">
         <h1>About</h1>
-        <ul className="flex gap-6">
+        <ul className="flex gap-4 md:gap-6">
           {linkElements}
         </ul>
         <p className="leading-7">
