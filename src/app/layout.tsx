@@ -4,6 +4,8 @@ import Navbar from "@/components/Navbar"
 import Image from "next/image"
 import Link from "next/link"
 import type { Metadata } from "next"
+import { Analytics } from "@vercel/analytics/next"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata: Metadata = {
   title: {
@@ -33,6 +35,8 @@ export default function RootLayout({
             <Navbar />
           </div>
           {children}
+          <Analytics />
+          <SpeedInsights />
         </div>
       </body>
     </html>
