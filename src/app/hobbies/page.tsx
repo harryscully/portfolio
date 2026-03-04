@@ -12,7 +12,7 @@ const hobbiesData = [{
     name: "films",
     displayName: "Films",
     subtitle: "Everything I've watched",
-    color: "green",
+    color: "hover:bg-green-100 hover:text-green-600",
     icon: movieIcon,
     alt: "cd windows 98 icon"
 },
@@ -20,7 +20,7 @@ const hobbiesData = [{
     name: "books",
     displayName: "Books",
     subtitle: "Everything I've read",
-    color: "violet",
+    color: "hover:bg-violet-100 hover:text-violet-600",
     icon: bookIcon,
     alt: "help book windows 98 icon"
 }]
@@ -30,7 +30,7 @@ export default function HobbiesPage() {
     const hobbieLinks = hobbiesData.map((item) => (
         <Link
             key={item.name}
-            className={`flex items-center gap-4 p-4 hover:bg-${item.color}-100 hover:text-${item.color}-600 transition-colors duration-200 cursor-pointer`}
+            className={`flex items-center gap-4 p-4 ${item.color} transition-colors duration-200 cursor-pointer`}
             href={`/hobbies/${item.name}`}
         >
             <Image className="h-8 w-8" src={item.icon} alt={item.alt} />
