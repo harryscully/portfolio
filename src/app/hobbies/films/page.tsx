@@ -16,7 +16,7 @@ export default function Films() {
             return (
                 <section key={year}>
                     <h2 className="my-6">{year}</h2>
-                    <div className="grid grid-cols-3 sm:grid-cols-5 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-4">
+                    <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-8 gap-4">
                         {films.map(film => {
                             return (
                                 <a key={film["Letterboxd URI"]} href={film["Letterboxd URI"]} target="_blank" title={film.Name}>
@@ -30,7 +30,7 @@ export default function Films() {
         })
 
     return (
-        <div className="flex flex-col gap-8 max-w-xl">
+        <div className="flex flex-col gap-8 max-w-2xl">
             <h1><Link className="hover:underline underline-offset-4 decoration-2" href="/hobbies">Hobbies</Link> / Films</h1>
             <div className="flex flex-col gap-4">
                 {filmElements}

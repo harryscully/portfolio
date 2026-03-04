@@ -21,7 +21,7 @@
     ],
     "description": "Harry's bookshelf: read",
     "language": "en-US",
-    "lastBuildDate": "Sun, 12 Oct 2025 14:53:16 -0700",
+    "lastBuildDate": "Wed, 04 Mar 2026 00:07:48 -0800",
     "ttl": "60",
     "image": {
       "title": "Harry's bookshelf: read",
@@ -31,6 +31,36 @@
       "url": "https://www.goodreads.com/images/layout/goodreads_logo_144.jpg"
     },
     "item": [
+      {
+        "guid": "https://www.goodreads.com/review/show/8409160437?utm_medium=api&utm_source=rss",
+        "pubDate": "Wed, 04 Mar 2026 00:07:48 -0800",
+        "title": "Project Hail Mary",
+        "link": "https://www.goodreads.com/review/show/8409160437?utm_medium=api&utm_source=rss",
+        "book_id": "54493401",
+        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY75_.jpg",
+        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY75_.jpg",
+        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SX98_.jpg",
+        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY475_.jpg",
+        "book_description": "<b>A LONE ASTRONAUT. <br />AN IMPOSSIBLE MISSION. <br />AN ALLY HE NEVER IMAGINED.</b><br /><br /><b> RYLAND GRACE</b> is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish.<br /><br />Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.<br /><br />And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.<br /><br />Or does he?<br /><br />An irresistible interstellar adventure as only Andy Weir could imagine it, <i>Project Hail Mary</i> is a tale of discovery, speculation, and survival to rival <i>The Martian</i>—while taking us to places it never dreamed of going.",
+        "book": {
+          "num_pages": "476",
+          "_id": "54493401"
+        },
+        "author_name": "Andy Weir",
+        "isbn": "0593135202",
+        "user_name": "Harry",
+        "user_rating": "5",
+        "user_read_at": "Sat, 31 May 2025 00:00:00 +0000",
+        "user_date_added": "Wed, 04 Mar 2026 00:07:48 -0800",
+        "user_date_created": "Wed, 04 Mar 2026 00:07:48 -0800",
+        "user_shelves": "",
+        "user_review": "",
+        "average_rating": "4.49",
+        "book_published": "2021",
+        "description": {
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/54493401-project-hail-mary?utm_medium=api&amp;utm_source=rss\"><img alt=\"Project Hail Mary\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY75_.jpg\" /></a><br/>\n                                      author: Andy Weir<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.49<br/>\n                                      book published: 2021<br/>\n                                      rating: 5<br/>\n                                      read at: 2025/05/31<br/>\n                                      date added: 2026/03/04<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+        }
+      },
       {
         "guid": "https://www.goodreads.com/review/show/7987725958?utm_medium=api&utm_source=rss",
         "pubDate": "Sun, 12 Oct 2025 14:53:16 -0700",
