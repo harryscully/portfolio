@@ -1,13 +1,20 @@
 type Project = {
-    title: string,
-    url: string,
-    date: string,
-    description: string,
-    tech: string[]
+  title: string,
+  url: string,
+  date: string,
+  description: string,
+  tech: string[]
 }
 
 export const projects: Project[] = [
-    {
+  {
+    title: "Authentication app",
+    url: "https://auth-app-seven-beryl.vercel.app/",
+    date: "2026",
+    description: "A learning project exploring authentication in Next.js. Built to understand auth patterns.",
+    tech: ["Auth.js","Shadcn/ui","Prisma"]
+  },
+  {
     title: "harryscully.com",
     url: "https://harryscully.com",
     date: "2026 – present",
