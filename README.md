@@ -15,12 +15,14 @@ src/
 │   ├── cv/
 │   ├── hobbies/
 │   │   └── films/
+│   │   └── books/
 │   ├── projects/
 │   ├── layout.tsx
 │   └── page.tsx
 ├── components/
 │   └── Navbar.tsx
 ├── data/
+│   ├── books.json
 │   ├── cvData.ts
 │   ├── films.json
 │   └── projectData.ts
@@ -34,6 +36,7 @@ src/
 - **/projects** — Coding projects
 - **/cv** — Work and education history
 - **/hobbies/films** — Every film I've watched, organised by year
+- **/hobbies/books** — Every book I've read, organised by year
 
 ## Commands
 
