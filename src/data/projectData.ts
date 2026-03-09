@@ -8,6 +8,13 @@ type Project = {
 
 export const projects: Project[] = [
   {
+    title: "Book Tracker",
+    url: "https://book-tracker-blue.vercel.app/",
+    date: "2026",
+    description: "A full-stack CRUD app in Next.js. Built to learn TanStack Query, React Hook Form, and Zod validation patterns",
+    tech: ["Next.js", "TypeScript", "TanStack Query", "React Hook Form", "Zod", "Prisma", "DaisyUI"]
+  },
+  {
     title: "Authentication app",
     url: "https://auth-app-seven-beryl.vercel.app/",
     date: "2026",
