@@ -8,6 +8,13 @@ type Project = {
 
 export const projects: Project[] = [
   {
+    title: "Task Dashboard",
+    url: "https://task-dashboard-green-one.vercel.app/",
+    date: "2026",
+    description: "A task management application using Kanban board. Live charts on the dashboard that respond to the state of the board",
+    tech: ["Next.js", "TypeScript", "dnd-kit", "Recharts"]
+  },
+  {
     title: "Book Tracker",
     url: "https://book-tracker-blue.vercel.app/",
     date: "2026",
