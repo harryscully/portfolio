@@ -21,7 +21,7 @@
     ],
     "description": "Harry's bookshelf: all",
     "language": "en-US",
-    "lastBuildDate": "Sun, 15 Mar 2026 11:47:58 -0700",
+    "lastBuildDate": "Sun, 22 Mar 2026 16:39:40 -0700",
     "ttl": "60",
     "image": {
       "title": "Harry's bookshelf: all",
@@ -32,8 +32,68 @@
     },
     "item": [
       {
+        "guid": "https://www.goodreads.com/review/show/8459550311?utm_medium=api&utm_source=rss",
+        "pubDate": "Sun, 22 Mar 2026 16:39:40 -0700",
+        "title": "Dark Matter",
+        "link": "https://www.goodreads.com/review/show/8459550311?utm_medium=api&utm_source=rss",
+        "book_id": "27833670",
+        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY75_.jpg",
+        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY75_.jpg",
+        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SX98_.jpg",
+        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY475_.jpg",
+        "book_description": "<b>A mindbending, relentlessly surprising thriller from the author of the bestselling Wayward Pines trilogy. </b><br /><br />Jason Dessen is walking home through the chilly Chicago streets one night, looking forward to a quiet evening in front of the fireplace with his wife, Daniela, and their son, Charlie—when his reality shatters.<br /><br /><i>\"Are you happy with your life?\"</i><br /><br />Those are the last words Jason Dessen hears before the masked abductor knocks him unconscious. <br /><br />Before he awakens to find himself strapped to a gurney, surrounded by strangers in hazmat suits. <br /><br />Before a man Jason's never met smiles down at him and says, \"Welcome back, my friend.\" <br /><br />In this world he's woken up to, Jason's life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible.<br /><br />Is it this world or the other that's the dream? <br /><br />And even if the home he remembers is real, how can Jason possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could've imagined—one that will force him to confront the darkest parts of himself even as he battles a terrifying, seemingly unbeatable foe.<br /><br /><b><i>Dark Matter</i> is a brilliantly plotted tale that is at once sweeping and intimate, mind-bendingly strange and profoundly human--a relentlessly surprising science-fiction thriller about choices, paths not taken, and how far we'll go to claim the lives we dream of.</b>",
+        "book": {
+          "num_pages": "342",
+          "_id": "27833670"
+        },
+        "author_name": "Blake Crouch",
+        "isbn": "1101904224",
+        "user_name": "Harry",
+        "user_rating": "0",
+        "user_read_at": "",
+        "user_date_added": "Sun, 22 Mar 2026 16:39:40 -0700",
+        "user_date_created": "Sun, 22 Mar 2026 16:39:40 -0700",
+        "user_shelves": "currently-reading",
+        "user_review": "",
+        "average_rating": "4.12",
+        "book_published": "2016",
+        "description": {
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/27833670-dark-matter?utm_medium=api&amp;utm_source=rss\"><img alt=\"Dark Matter\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY75_.jpg\" /></a><br/>\n                                      author: Blake Crouch<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.12<br/>\n                                      book published: 2016<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2026/03/22<br/>\n                                      shelves: currently-reading<br/>\n                                      review: <br/><br/>\n                                      "
+        }
+      },
+      {
+        "guid": "https://www.goodreads.com/review/show/8446215347?utm_medium=api&utm_source=rss",
+        "pubDate": "Sat, 21 Mar 2026 02:58:23 -0700",
+        "title": "The Compound",
+        "link": "https://www.goodreads.com/review/show/8446215347?utm_medium=api&utm_source=rss",
+        "book_id": "222255947",
+        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738204664l/222255947._SY75_.jpg",
+        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738204664l/222255947._SY75_.jpg",
+        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738204664l/222255947._SX98_.jpg",
+        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738204664l/222255947._SY475_.jpg",
+        "book_description": "You wake up in a compound in the middle of the desert, along with nine other women.<br /><br />All of you are young, all beautiful, all keen to escape the grinding poverty, political unrest and environmental catastrophe of the outside world.<br /><br />You realise that cameras are tracking your every move, broadcasting to millions of reality TV fans.<br /><br />Soon, ten men will arrive on foot – if they all survive the journey.<br /><br />What will you have to do to win?<br /><br />And what happens to the losers?<br /><br /><strong>LORD OF THE FLIES meets LOVE ISLAND in this explosive, addictive debut novel, as bingeable as the best reality TV, with dark undercurrents of literary dystopia and consumerist satire. </strong>",
+        "book": {
+          "num_pages": "345",
+          "_id": "222255947"
+        },
+        "author_name": "Aisling Rawle",
+        "isbn": "0008710104",
+        "user_name": "Harry",
+        "user_rating": "3",
+        "user_read_at": "Sat, 21 Mar 2026 00:00:00 +0000",
+        "user_date_added": "Sat, 21 Mar 2026 02:58:23 -0700",
+        "user_date_created": "Tue, 17 Mar 2026 16:05:07 -0700",
+        "user_shelves": "",
+        "user_review": "",
+        "average_rating": "3.66",
+        "book_published": "2025",
+        "description": {
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/222255947-the-compound?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Compound\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738204664l/222255947._SY75_.jpg\" /></a><br/>\n                                      author: Aisling Rawle<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.66<br/>\n                                      book published: 2025<br/>\n                                      rating: 3<br/>\n                                      read at: 2026/03/21<br/>\n                                      date added: 2026/03/21<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+        }
+      },
+      {
         "guid": "https://www.goodreads.com/review/show/4173800423?utm_medium=api&utm_source=rss",
-        "pubDate": "Sun, 15 Mar 2026 11:47:58 -0700",
+        "pubDate": "Wed, 18 Mar 2026 02:21:32 -0700",
         "title": "The Castle",
         "link": "https://www.goodreads.com/review/show/4173800423?utm_medium=api&utm_source=rss",
         "book_id": "58836704",
@@ -51,14 +111,14 @@
         "user_name": "Harry",
         "user_rating": "0",
         "user_read_at": "",
-        "user_date_added": "Sun, 15 Mar 2026 11:47:58 -0700",
+        "user_date_added": "Wed, 18 Mar 2026 02:21:32 -0700",
         "user_date_created": "Fri, 13 Aug 2021 15:06:01 -0700",
-        "user_shelves": "currently-reading",
+        "user_shelves": "did-not-finish",
         "user_review": "",
-        "average_rating": "3.42",
+        "average_rating": "3.39",
         "book_published": "1926",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/58836704-the-castle?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Castle\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629739042l/58836704._SY75_.jpg\" /></a><br/>\n                                      author: Franz Kafka<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.42<br/>\n                                      book published: 1926<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2026/03/15<br/>\n                                      shelves: currently-reading<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/58836704-the-castle?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Castle\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629739042l/58836704._SY75_.jpg\" /></a><br/>\n                                      author: Franz Kafka<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.39<br/>\n                                      book published: 1926<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2026/03/18<br/>\n                                      shelves: did-not-finish<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -115,10 +175,10 @@
         "user_date_created": "Mon, 02 Mar 2026 00:20:37 -0800",
         "user_shelves": "",
         "user_review": "this book started strong - and I thought the ending was strong too (it’ll definitely stick with me) - but i was waiting for more of a climax! but i think that was the point; the writing is very calm and understated and that’s what makes it eerie. that said, still an enjoyable read!",
-        "average_rating": "3.70",
+        "average_rating": "3.69",
         "book_published": "1994",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/37004370-the-memory-police?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Memory Police\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370._SY75_.jpg\" /></a><br/>\n                                      author: Yōko Ogawa<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.70<br/>\n                                      book published: 1994<br/>\n                                      rating: 3<br/>\n                                      read at: 2026/03/07<br/>\n                                      date added: 2026/03/07<br/>\n                                      shelves: <br/>\n                                      review: <br/>this book started strong - and I thought the ending was strong too (it’ll definitely stick with me) - but i was waiting for more of a climax! but i think that was the point; the writing is very calm and understated and that’s what makes it eerie. that said, still an enjoyable read!<br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/37004370-the-memory-police?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Memory Police\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370._SY75_.jpg\" /></a><br/>\n                                      author: Yōko Ogawa<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.69<br/>\n                                      book published: 1994<br/>\n                                      rating: 3<br/>\n                                      read at: 2026/03/07<br/>\n                                      date added: 2026/03/07<br/>\n                                      shelves: <br/>\n                                      review: <br/>this book started strong - and I thought the ending was strong too (it’ll definitely stick with me) - but i was waiting for more of a climax! but i think that was the point; the writing is very calm and understated and that’s what makes it eerie. that said, still an enjoyable read!<br/>\n                                      "
         }
       },
       {
@@ -131,7 +191,7 @@
         "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY75_.jpg",
         "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SX98_.jpg",
         "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY475_.jpg",
-        "book_description": "<b>A LONE ASTRONAUT. <br />AN IMPOSSIBLE MISSION. <br />AN ALLY HE NEVER IMAGINED.</b><br /><br /><b> RYLAND GRACE</b> is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish.<br /><br />Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.<br /><br />And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.<br /><br />Or does he?<br /><br />An irresistible interstellar adventure as only Andy Weir could imagine it, <i>Project Hail Mary</i> is a tale of discovery, speculation, and survival to rival <i>The Martian</i>—while taking us to places it never dreamed of going.",
+        "book_description": "Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish.<br /><br />Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.<br /><br />All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br /><br />His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.<br /><br />And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.<br /><br />Or does he?",
         "book": {
           "num_pages": "476",
           "_id": "54493401"
@@ -145,10 +205,10 @@
         "user_date_created": "Wed, 04 Mar 2026 00:07:48 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.49",
+        "average_rating": "4.50",
         "book_published": "2021",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/54493401-project-hail-mary?utm_medium=api&amp;utm_source=rss\"><img alt=\"Project Hail Mary\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY75_.jpg\" /></a><br/>\n                                      author: Andy Weir<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.49<br/>\n                                      book published: 2021<br/>\n                                      rating: 5<br/>\n                                      read at: 2025/05/31<br/>\n                                      date added: 2026/03/04<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/54493401-project-hail-mary?utm_medium=api&amp;utm_source=rss\"><img alt=\"Project Hail Mary\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY75_.jpg\" /></a><br/>\n                                      author: Andy Weir<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.50<br/>\n                                      book published: 2021<br/>\n                                      rating: 5<br/>\n                                      read at: 2025/05/31<br/>\n                                      date added: 2026/03/04<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -175,10 +235,10 @@
         "user_date_created": "Sun, 12 Oct 2025 14:52:25 -0700",
         "user_shelves": "",
         "user_review": "holy FUUUCK",
-        "average_rating": "4.17",
+        "average_rating": "4.15",
         "book_published": "1943",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/27793819-madonna-in-a-fur-coat?utm_medium=api&amp;utm_source=rss\"><img alt=\"Madonna in a Fur Coat\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447193500l/27793819._SY75_.jpg\" /></a><br/>\n                                      author: Sabahattin Ali<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.17<br/>\n                                      book published: 1943<br/>\n                                      rating: 5<br/>\n                                      read at: 2025/06/20<br/>\n                                      date added: 2025/10/12<br/>\n                                      shelves: <br/>\n                                      review: <br/>holy FUUUCK<br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/27793819-madonna-in-a-fur-coat?utm_medium=api&amp;utm_source=rss\"><img alt=\"Madonna in a Fur Coat\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447193500l/27793819._SY75_.jpg\" /></a><br/>\n                                      author: Sabahattin Ali<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.15<br/>\n                                      book published: 1943<br/>\n                                      rating: 5<br/>\n                                      read at: 2025/06/20<br/>\n                                      date added: 2025/10/12<br/>\n                                      shelves: <br/>\n                                      review: <br/>holy FUUUCK<br/>\n                                      "
         }
       },
       {
@@ -221,7 +281,7 @@
         "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623151363l/133445._SY75_.jpg",
         "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623151363l/133445._SX98_.jpg",
         "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623151363l/133445._SY475_.jpg",
-        "book_description": "Marian is determined to be ordinary. She lays her head gently on the shoulder of her serious fiancé and quietly awaits marriage. But she didn't count on an inner rebellion that would rock her stable routine, and her digestion. Marriage <i>à la mode</i>, Marian discovers, is something she literally can't stomach... <br /><br /><i>The Edible Woman</i> is a funny, engaging novel about emotional cannibalism, men and women, and the desire to be consumed.",
+        "book_description": "Marian é uma mulher deliberadamente vulgar, que espera casar-se mais dia menos dia. Gosta do seu trabalho, da amiga quase ninfomaníaca com quem partilha o apartamento, do seu noivo excessivamente fleumático. Ao princípio tudo parece correr bem. Mas Marian não contou consigo mesma, com aquilo que é na realidade: uma mulher que deseja um pouco mais do que aquilo que tem, que inconscientemente vai sabotando os seus próprios planos, a sua rotina, a sua digestão. E Marian descobre, por fim, que há coisas que não suporta...",
         "book": {
           "num_pages": "310",
           "_id": "133445"
@@ -277,10 +337,10 @@
         "title": "Amsterdam",
         "link": "https://www.goodreads.com/review/show/6163377379?utm_medium=api&utm_source=rss",
         "book_id": "6862",
-        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403191209l/6862._SY75_.jpg",
-        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403191209l/6862._SY75_.jpg",
-        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403191209l/6862._SX98_.jpg",
-        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403191209l/6862.jpg",
+        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774979765l/6862._SY75_.jpg",
+        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774979765l/6862._SY75_.jpg",
+        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774979765l/6862._SX98_.jpg",
+        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774979765l/6862._SY475_.jpg",
         "book_description": "BOOKER PRIZE WINNER • NATIONAL BESTSELLER • A sharp contemporary morality tale, cleverly disguised as a comic novel, <i>Amsterdam</i> is \"a dark tour de force, perfectly fashioned\" ( The New York Times ) from the bestselling author of <i>Atonement.</i><br /><br />On a chilly February day, two old friends meet in the throng outside a London crematorium to pay their last respects to Molly Lane. Both Clive Linley and Vernon Halliday had been Molly's lovers in the days before they reached their current Clive is Britain's most successful modern composer, and Vernon is a newspaper editor. Gorgeous, feisty Molly had other lovers, too, notably Julian Garmony, Foreign Secretary, a notorious right-winger tipped to be the next prime minister. In the days that follow Molly's funeral, Clive and Vernon will make a pact with consequences that neither could have foreseen…<br /><br />Don’t miss Ian McEwan’s new novel, Lessons .",
         "book": {
           "num_pages": "209",
@@ -298,7 +358,7 @@
         "average_rating": "3.47",
         "book_published": "1998",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/6862.Amsterdam?utm_medium=api&amp;utm_source=rss\"><img alt=\"Amsterdam\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403191209l/6862._SY75_.jpg\" /></a><br/>\n                                      author: Ian McEwan<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.47<br/>\n                                      book published: 1998<br/>\n                                      rating: 3<br/>\n                                      read at: 2024/01/13<br/>\n                                      date added: 2024/01/13<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/6862.Amsterdam?utm_medium=api&amp;utm_source=rss\"><img alt=\"Amsterdam\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774979765l/6862._SY75_.jpg\" /></a><br/>\n                                      author: Ian McEwan<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.47<br/>\n                                      book published: 1998<br/>\n                                      rating: 3<br/>\n                                      read at: 2024/01/13<br/>\n                                      date added: 2024/01/13<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -355,10 +415,10 @@
         "user_date_created": "Tue, 02 Jan 2024 23:20:31 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.21",
+        "average_rating": "4.20",
         "book_published": "1963",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/49988275-the-spy-who-came-in-from-the-cold?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Spy Who Came in from the Cold\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701359740l/49988275._SY75_.jpg\" /></a><br/>\n                                      author: John le Carré<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.21<br/>\n                                      book published: 1963<br/>\n                                      rating: 5<br/>\n                                      read at: 2024/01/02<br/>\n                                      date added: 2024/01/05<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/49988275-the-spy-who-came-in-from-the-cold?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Spy Who Came in from the Cold\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701359740l/49988275._SY75_.jpg\" /></a><br/>\n                                      author: John le Carré<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.20<br/>\n                                      book published: 1963<br/>\n                                      rating: 5<br/>\n                                      read at: 2024/01/02<br/>\n                                      date added: 2024/01/05<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -385,10 +445,10 @@
         "user_date_created": "Wed, 03 Jan 2024 03:29:49 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "3.70",
+        "average_rating": "3.71",
         "book_published": "1965",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/23253687-the-looking-glass-war?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Looking Glass War (George Smiley, #4)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411222353l/23253687._SY75_.jpg\" /></a><br/>\n                                      author: John le Carré<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.70<br/>\n                                      book published: 1965<br/>\n                                      rating: 3<br/>\n                                      read at: 2024/01/05<br/>\n                                      date added: 2024/01/05<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/23253687-the-looking-glass-war?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Looking Glass War (George Smiley, #4)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411222353l/23253687._SY75_.jpg\" /></a><br/>\n                                      author: John le Carré<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.71<br/>\n                                      book published: 1965<br/>\n                                      rating: 3<br/>\n                                      read at: 2024/01/05<br/>\n                                      date added: 2024/01/05<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -445,10 +505,10 @@
         "user_date_created": "Fri, 22 Dec 2023 09:54:59 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "3.57",
+        "average_rating": "3.58",
         "book_published": "1962",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/622855.A_Murder_of_Quality?utm_medium=api&amp;utm_source=rss\"><img alt=\"A Murder of Quality (George Smiley, #2)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347598479l/622855._SY75_.jpg\" /></a><br/>\n                                      author: John le Carré<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.57<br/>\n                                      book published: 1962<br/>\n                                      rating: 4<br/>\n                                      read at: 2023/12/22<br/>\n                                      date added: 2024/01/02<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/622855.A_Murder_of_Quality?utm_medium=api&amp;utm_source=rss\"><img alt=\"A Murder of Quality (George Smiley, #2)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347598479l/622855._SY75_.jpg\" /></a><br/>\n                                      author: John le Carré<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.58<br/>\n                                      book published: 1962<br/>\n                                      rating: 4<br/>\n                                      read at: 2023/12/22<br/>\n                                      date added: 2024/01/02<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -475,10 +535,10 @@
         "user_date_created": "Wed, 20 Dec 2023 10:59:01 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "3.86",
+        "average_rating": "3.87",
         "book_published": "1961",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/12358271-call-for-the-dead?utm_medium=api&amp;utm_source=rss\"><img alt=\"Call for the Dead (George Smiley #1)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327999090l/12358271._SY75_.jpg\" /></a><br/>\n                                      author: John le Carré<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.86<br/>\n                                      book published: 1961<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/12/20<br/>\n                                      date added: 2023/12/20<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/12358271-call-for-the-dead?utm_medium=api&amp;utm_source=rss\"><img alt=\"Call for the Dead (George Smiley #1)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327999090l/12358271._SY75_.jpg\" /></a><br/>\n                                      author: John le Carré<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.87<br/>\n                                      book published: 1961<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/12/20<br/>\n                                      date added: 2023/12/20<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -505,10 +565,10 @@
         "user_date_created": "Sat, 16 Dec 2023 07:04:08 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.43",
+        "average_rating": "4.42",
         "book_published": "2023",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/62226126-the-last-devil-to-die?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Last Devil to Die (Thursday Murder Club, #4)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680740298l/62226126._SY75_.jpg\" /></a><br/>\n                                      author: Richard Osman<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.43<br/>\n                                      book published: 2023<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/12/16<br/>\n                                      date added: 2023/12/16<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/62226126-the-last-devil-to-die?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Last Devil to Die (Thursday Murder Club, #4)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680740298l/62226126._SY75_.jpg\" /></a><br/>\n                                      author: Richard Osman<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.42<br/>\n                                      book published: 2023<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/12/16<br/>\n                                      date added: 2023/12/16<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -595,10 +655,10 @@
         "user_date_created": "Tue, 02 May 2023 04:20:46 -0700",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.31",
+        "average_rating": "4.30",
         "book_published": "2022",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/58957615-the-bullet-that-missed?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Bullet That Missed (Thursday Murder Club, #3)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649424135l/58957615._SY75_.jpg\" /></a><br/>\n                                      author: Richard Osman<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.31<br/>\n                                      book published: 2022<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/05/02<br/>\n                                      date added: 2023/05/02<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/58957615-the-bullet-that-missed?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Bullet That Missed (Thursday Murder Club, #3)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649424135l/58957615._SY75_.jpg\" /></a><br/>\n                                      author: Richard Osman<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.30<br/>\n                                      book published: 2022<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/05/02<br/>\n                                      date added: 2023/05/02<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -745,10 +805,10 @@
         "user_date_created": "Sat, 17 Apr 2021 13:24:18 -0700",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "3.85",
+        "average_rating": "3.84",
         "book_published": "2020",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/46000520-the-thursday-murder-club?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Thursday Murder Club (Thursday Murder Club, #1)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582287822l/46000520._SY75_.jpg\" /></a><br/>\n                                      author: Richard Osman<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.85<br/>\n                                      book published: 2020<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/03/02<br/>\n                                      date added: 2023/03/02<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/46000520-the-thursday-murder-club?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Thursday Murder Club (Thursday Murder Club, #1)\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582287822l/46000520._SY75_.jpg\" /></a><br/>\n                                      author: Richard Osman<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.84<br/>\n                                      book published: 2020<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/03/02<br/>\n                                      date added: 2023/03/02<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -805,10 +865,10 @@
         "user_date_created": "Mon, 13 Feb 2023 02:14:36 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.08",
+        "average_rating": "4.07",
         "book_published": "2021",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/58662236-small-things-like-these?utm_medium=api&amp;utm_source=rss\"><img alt=\"Small Things Like These\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734631773l/58662236._SX50_.jpg\" /></a><br/>\n                                      author: Claire Keegan<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.08<br/>\n                                      book published: 2021<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/02/13<br/>\n                                      date added: 2023/02/13<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/58662236-small-things-like-these?utm_medium=api&amp;utm_source=rss\"><img alt=\"Small Things Like These\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734631773l/58662236._SX50_.jpg\" /></a><br/>\n                                      author: Claire Keegan<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.07<br/>\n                                      book published: 2021<br/>\n                                      rating: 5<br/>\n                                      read at: 2023/02/13<br/>\n                                      date added: 2023/02/13<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -1015,10 +1075,10 @@
         "user_date_created": "Fri, 13 Aug 2021 15:06:29 -0700",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.31",
+        "average_rating": "4.30",
         "book_published": "1967",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/117833.The_Master_and_Margarita?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Master and Margarita\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867963l/117833._SY75_.jpg\" /></a><br/>\n                                      author: Mikhail Bulgakov<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.31<br/>\n                                      book published: 1967<br/>\n                                      rating: 4<br/>\n                                      read at: 2023/01/15<br/>\n                                      date added: 2023/01/16<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/117833.The_Master_and_Margarita?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Master and Margarita\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867963l/117833._SY75_.jpg\" /></a><br/>\n                                      author: Mikhail Bulgakov<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.30<br/>\n                                      book published: 1967<br/>\n                                      rating: 4<br/>\n                                      read at: 2023/01/15<br/>\n                                      date added: 2023/01/16<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -1195,10 +1255,10 @@
         "user_date_created": "Sun, 17 Jul 2022 07:40:31 -0700",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "3.49",
+        "average_rating": "3.48",
         "book_published": "2021",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/50224049-how-to-kill-your-family?utm_medium=api&amp;utm_source=rss\"><img alt=\"How to Kill Your Family\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617719574l/50224049._SX50_.jpg\" /></a><br/>\n                                      author: Bella Mackie<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.49<br/>\n                                      book published: 2021<br/>\n                                      rating: 3<br/>\n                                      read at: 2022/07/19<br/>\n                                      date added: 2022/07/19<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/50224049-how-to-kill-your-family?utm_medium=api&amp;utm_source=rss\"><img alt=\"How to Kill Your Family\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617719574l/50224049._SX50_.jpg\" /></a><br/>\n                                      author: Bella Mackie<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.48<br/>\n                                      book published: 2021<br/>\n                                      rating: 3<br/>\n                                      read at: 2022/07/19<br/>\n                                      date added: 2022/07/19<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -1315,10 +1375,10 @@
         "user_date_created": "Sun, 10 Apr 2022 02:58:00 -0700",
         "user_shelves": "to-read",
         "user_review": "",
-        "average_rating": "3.96",
+        "average_rating": "3.95",
         "book_published": "2020",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/51182074-kusama?utm_medium=api&amp;utm_source=rss\"><img alt=\"Kusama: The Graphic Novel\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588028928l/51182074._SX50_.jpg\" /></a><br/>\n                                      author: Elisa Macellari<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.96<br/>\n                                      book published: 2020<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2022/04/10<br/>\n                                      shelves: to-read<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/51182074-kusama?utm_medium=api&amp;utm_source=rss\"><img alt=\"Kusama: The Graphic Novel\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588028928l/51182074._SX50_.jpg\" /></a><br/>\n                                      author: Elisa Macellari<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.95<br/>\n                                      book published: 2020<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2022/04/10<br/>\n                                      shelves: to-read<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -1393,7 +1453,7 @@
         "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519392186l/36436069._SX318_.jpg",
         "book_description": "'It's an improbable city, Bologna - like one you might walk through after you have died.'<br /><br />A dreamlike meditation on memory, food, paintings, a fond uncle and the improbable beauty of Bologna, from the visionary thinker and art critic.<br /><br />Penguin Modern: fifty new books celebrating the pioneering spirit of the iconic Penguin Modern Classics series, with each one offering a concentrated hit of its contemporary, international flavour. Here are authors ranging from Kathy Acker to James Baldwin, Truman Capote to Stanislaw Lem and George Orwell to Shirley Jackson; essays radical and inspiring; poems moving and disturbing; stories surreal and fabulous; taking us from the deep South to modern Japan, New York's underground scene to the farthest reaches of outer space.",
         "book": {
-          "num_pages": "64",
+          "num_pages": "56",
           "_id": "36436069"
         },
         "author_name": "John Berger",
@@ -1405,10 +1465,10 @@
         "user_date_created": "Wed, 02 Feb 2022 10:07:51 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.07",
+        "average_rating": "4.06",
         "book_published": "2007",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/36436069-the-red-tenda-of-bologna?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Red Tenda of Bologna\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519392186l/36436069._SX50_.jpg\" /></a><br/>\n                                      author: John Berger<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.07<br/>\n                                      book published: 2007<br/>\n                                      rating: 4<br/>\n                                      read at: 2022/02/01<br/>\n                                      date added: 2022/02/02<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/36436069-the-red-tenda-of-bologna?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Red Tenda of Bologna\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519392186l/36436069._SX50_.jpg\" /></a><br/>\n                                      author: John Berger<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.06<br/>\n                                      book published: 2007<br/>\n                                      rating: 4<br/>\n                                      read at: 2022/02/01<br/>\n                                      date added: 2022/02/02<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -1421,7 +1481,7 @@
         "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577090827l/51791252._SX50_SY75_.jpg",
         "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577090827l/51791252._SX98_SY160_.jpg",
         "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577090827l/51791252._SX318_SY475_.jpg",
-        "book_description": "The Vignes twin sisters will always be identical. But after growing up together in a small, southern black community and running away at age sixteen, it's not just the shape of their daily lives that is different as adults, it's everything: their families, their communities, their racial identities. Many years later, one sister lives with her black daughter in the same southern town she once tried to escape. The other passes for white, and her white husband knows nothing of her past. Still, even separated by so many miles and just as many lies, the fates of the twins remain intertwined. What will happen to the next generation, when their own daughters' storylines intersect?<br /><br />Weaving together multiple strands and generations of this family, from the Deep South to California, from the 1950s to the 1990s, Brit Bennett produces a story that is at once a riveting, emotional family story and a brilliant exploration of the American history of passing. Looking well beyond issues of race, <i>The Vanishing Half</i> considers the lasting influence of the past as it shapes a person's decisions, desires, and expectations, and explores some of the multiple reasons and realms in which people sometimes feel pulled to live as something other than their origins.",
+        "book_description": "Som tonåringar rymmer tvillingsystrarna Desiree och Stella Vignes till New Orleans. Där inser Stella för första gången att hennes hud är så ljus att andra människor kan ta henne för vit. Så snart hon upptäckt kraften i den förklädnaden finns ingen återvändo.<br /><br />Tjugo år senare lär två unga kvinnor känna varandra i 80-talets Los Angeles. På ytan har de inte mycket gemensamt, men de delar samma rötter.<br /><br />Brit Bennett är född i Kalifornien och har studerat vid Stanford och University of Michigan. Hon debuterade med den kritikerhyllade och bästsäljande romanen <i>The Mothers</i> 2016. Samma år utsågs hon till en av National Book Awards “5 under 35”.",
         "book": {
           "num_pages": "343",
           "_id": "51791252"
@@ -1495,10 +1555,10 @@
         "user_date_created": "Thu, 20 Jan 2022 06:27:45 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "3.50",
+        "average_rating": "3.49",
         "book_published": "2020",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/51541496-luster?utm_medium=api&amp;utm_source=rss\"><img alt=\"Luster\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568668703l/51541496._SX50_SY75_.jpg\" /></a><br/>\n                                      author: Raven Leilani<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.50<br/>\n                                      book published: 2020<br/>\n                                      rating: 4<br/>\n                                      read at: 2022/01/18<br/>\n                                      date added: 2022/01/20<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/51541496-luster?utm_medium=api&amp;utm_source=rss\"><img alt=\"Luster\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568668703l/51541496._SX50_SY75_.jpg\" /></a><br/>\n                                      author: Raven Leilani<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.49<br/>\n                                      book published: 2020<br/>\n                                      rating: 4<br/>\n                                      read at: 2022/01/18<br/>\n                                      date added: 2022/01/20<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -1615,10 +1675,10 @@
         "user_date_created": "Tue, 04 Jan 2022 12:45:02 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "3.74",
+        "average_rating": "3.73",
         "book_published": "1922",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/4708.The_Beautiful_and_Damned?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Beautiful and Damned\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631090417l/4708._SX50_.jpg\" /></a><br/>\n                                      author: F. Scott Fitzgerald<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.74<br/>\n                                      book published: 1922<br/>\n                                      rating: 3<br/>\n                                      read at: 2022/01/08<br/>\n                                      date added: 2022/01/20<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/4708.The_Beautiful_and_Damned?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Beautiful and Damned\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631090417l/4708._SX50_.jpg\" /></a><br/>\n                                      author: F. Scott Fitzgerald<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.73<br/>\n                                      book published: 1922<br/>\n                                      rating: 3<br/>\n                                      read at: 2022/01/08<br/>\n                                      date added: 2022/01/20<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -1765,10 +1825,10 @@
         "user_date_created": "Sat, 31 Jul 2021 16:50:03 -0700",
         "user_shelves": "bookshelf-need-reading",
         "user_review": "",
-        "average_rating": "3.59",
+        "average_rating": "3.60",
         "book_published": "1915",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/818348.The_Good_Soldier?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Good Soldier: A Tale of Passion\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365225329l/818348._SY75_.jpg\" /></a><br/>\n                                      author: Ford Madox Ford<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.59<br/>\n                                      book published: 1915<br/>\n                                      rating: 5<br/>\n                                      read at: 2021/11/23<br/>\n                                      date added: 2021/12/25<br/>\n                                      shelves: bookshelf-need-reading<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/818348.The_Good_Soldier?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Good Soldier: A Tale of Passion\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365225329l/818348._SY75_.jpg\" /></a><br/>\n                                      author: Ford Madox Ford<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.60<br/>\n                                      book published: 1915<br/>\n                                      rating: 5<br/>\n                                      read at: 2021/11/23<br/>\n                                      date added: 2021/12/25<br/>\n                                      shelves: bookshelf-need-reading<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -1837,10 +1897,10 @@
         "title": "Piranesi",
         "link": "https://www.goodreads.com/review/show/4399764345?utm_medium=api&utm_source=rss",
         "book_id": "50202953",
-        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609095173l/50202953._SY75_.jpg",
-        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609095173l/50202953._SY75_.jpg",
-        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609095173l/50202953._SX98_.jpg",
-        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609095173l/50202953._SY475_.jpg",
+        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773750050l/50202953._SY75_.jpg",
+        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773750050l/50202953._SY75_.jpg",
+        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773750050l/50202953._SX98_.jpg",
+        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773750050l/50202953._SY475_.jpg",
         "book_description": "Piranesi’s house is no ordinary building: its rooms are infinite, its corridors endless, its walls are lined with thousands upon thousands of statues, each one different from all the others. Within the labyrinth of halls an ocean is imprisoned; waves thunder up staircases, rooms are flooded in an instant. But Piranesi is not afraid; he understands the tides as he understands the pattern of the labyrinth itself. He lives to explore the house.<br /><br />There is one other person in the house—a man called The Other, who visits Piranesi twice a week and asks for help with research into A Great and Secret Knowledge. But as Piranesi explores, evidence emerges of another person, and a terrible truth begins to unravel, revealing a world beyond the one Piranesi has always known.",
         "book": {
           "num_pages": "245",
@@ -1855,10 +1915,10 @@
         "user_date_created": "Mon, 20 Dec 2021 08:59:08 -0800",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.21",
+        "average_rating": "4.20",
         "book_published": "2020",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/50202953-piranesi?utm_medium=api&amp;utm_source=rss\"><img alt=\"Piranesi\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609095173l/50202953._SY75_.jpg\" /></a><br/>\n                                      author: Susanna Clarke<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.21<br/>\n                                      book published: 2020<br/>\n                                      rating: 5<br/>\n                                      read at: 2021/12/21<br/>\n                                      date added: 2021/12/21<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/50202953-piranesi?utm_medium=api&amp;utm_source=rss\"><img alt=\"Piranesi\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1773750050l/50202953._SY75_.jpg\" /></a><br/>\n                                      author: Susanna Clarke<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.20<br/>\n                                      book published: 2020<br/>\n                                      rating: 5<br/>\n                                      read at: 2021/12/21<br/>\n                                      date added: 2021/12/21<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2155,10 +2215,10 @@
         "user_date_created": "Thu, 12 Aug 2021 02:20:11 -0700",
         "user_shelves": "bookshelf-need-reading, to-read",
         "user_review": "",
-        "average_rating": "3.67",
+        "average_rating": "3.69",
         "book_published": "1988",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/22396645-the-satanic-verses?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Satanic Verses\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401790718l/22396645._SY75_.jpg\" /></a><br/>\n                                      author: Salman Rushdie<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.67<br/>\n                                      book published: 1988<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/11/15<br/>\n                                      shelves: bookshelf-need-reading, to-read<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/22396645-the-satanic-verses?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Satanic Verses\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401790718l/22396645._SY75_.jpg\" /></a><br/>\n                                      author: Salman Rushdie<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.69<br/>\n                                      book published: 1988<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/11/15<br/>\n                                      shelves: bookshelf-need-reading, to-read<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2425,10 +2485,10 @@
         "user_date_created": "Mon, 20 Sep 2021 03:32:03 -0700",
         "user_shelves": "to-read, bookshelf-need-reading",
         "user_review": "",
-        "average_rating": "3.27",
+        "average_rating": "3.26",
         "book_published": "1850",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/1056890.The_Scarlet_Letter?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Scarlet Letter\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455007188l/1056890._SY75_.jpg\" /></a><br/>\n                                      author: Nathaniel Hawthorne<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.27<br/>\n                                      book published: 1850<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/09/20<br/>\n                                      shelves: to-read, bookshelf-need-reading<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/1056890.The_Scarlet_Letter?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Scarlet Letter\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455007188l/1056890._SY75_.jpg\" /></a><br/>\n                                      author: Nathaniel Hawthorne<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.26<br/>\n                                      book published: 1850<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/09/20<br/>\n                                      shelves: to-read, bookshelf-need-reading<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2485,10 +2545,10 @@
         "user_date_created": "Mon, 20 Sep 2021 03:30:27 -0700",
         "user_shelves": "to-read, bookshelf-need-reading",
         "user_review": "",
-        "average_rating": "3.47",
+        "average_rating": "3.48",
         "book_published": "1909",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/2036112.Strait_Is_the_Gate?utm_medium=api&amp;utm_source=rss\"><img alt=\"Strait Is the Gate\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689872471l/2036112._SY75_.jpg\" /></a><br/>\n                                      author: André Gide<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.47<br/>\n                                      book published: 1909<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/09/20<br/>\n                                      shelves: to-read, bookshelf-need-reading<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/2036112.Strait_Is_the_Gate?utm_medium=api&amp;utm_source=rss\"><img alt=\"Strait Is the Gate\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689872471l/2036112._SY75_.jpg\" /></a><br/>\n                                      author: André Gide<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.48<br/>\n                                      book published: 1909<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/09/20<br/>\n                                      shelves: to-read, bookshelf-need-reading<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2545,10 +2605,10 @@
         "user_date_created": "Sat, 11 Sep 2021 15:35:01 -0700",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.09",
+        "average_rating": "4.10",
         "book_published": "1945",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/170448.Animal_Farm?utm_medium=api&amp;utm_source=rss\"><img alt=\"Animal Farm\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570l/170448._SY75_.jpg\" /></a><br/>\n                                      author: George Orwell<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.09<br/>\n                                      book published: 1945<br/>\n                                      rating: 3<br/>\n                                      read at: 2021/09/14<br/>\n                                      date added: 2021/09/14<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/170448.Animal_Farm?utm_medium=api&amp;utm_source=rss\"><img alt=\"Animal Farm\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570l/170448._SY75_.jpg\" /></a><br/>\n                                      author: George Orwell<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.10<br/>\n                                      book published: 1945<br/>\n                                      rating: 3<br/>\n                                      read at: 2021/09/14<br/>\n                                      date added: 2021/09/14<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2575,10 +2635,10 @@
         "user_date_created": "Thu, 12 Aug 2021 02:20:25 -0700",
         "user_shelves": "",
         "user_review": "",
-        "average_rating": "4.16",
+        "average_rating": "4.15",
         "book_published": "1989",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/11697847-the-remains-of-the-day?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Remains of the Day\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307900910l/11697847._SY75_.jpg\" /></a><br/>\n                                      author: Kazuo Ishiguro<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.16<br/>\n                                      book published: 1989<br/>\n                                      rating: 5<br/>\n                                      read at: 2021/09/11<br/>\n                                      date added: 2021/09/11<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/11697847-the-remains-of-the-day?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Remains of the Day\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307900910l/11697847._SY75_.jpg\" /></a><br/>\n                                      author: Kazuo Ishiguro<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.15<br/>\n                                      book published: 1989<br/>\n                                      rating: 5<br/>\n                                      read at: 2021/09/11<br/>\n                                      date added: 2021/09/11<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2635,10 +2695,10 @@
         "user_date_created": "Tue, 07 Sep 2021 13:39:40 -0700",
         "user_shelves": "to-read, bookshelf-need-reading",
         "user_review": "",
-        "average_rating": "3.63",
+        "average_rating": "3.61",
         "book_published": "2005",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/176907.Modern_Art?utm_medium=api&amp;utm_source=rss\"><img alt=\"Modern Art: A Very Short Introduction\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348033035l/176907._SY75_.jpg\" /></a><br/>\n                                      author: David Cottington<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.63<br/>\n                                      book published: 2005<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/09/07<br/>\n                                      shelves: to-read, bookshelf-need-reading<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/176907.Modern_Art?utm_medium=api&amp;utm_source=rss\"><img alt=\"Modern Art: A Very Short Introduction\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348033035l/176907._SY75_.jpg\" /></a><br/>\n                                      author: David Cottington<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.61<br/>\n                                      book published: 2005<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/09/07<br/>\n                                      shelves: to-read, bookshelf-need-reading<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2653,7 +2713,7 @@
         "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445426l/78433.jpg",
         "book_description": "Margaret Atwood takes the art of storytelling to new heights in a dazzling novel that unfolds layer by astonishing layer and concludes in a brilliant and wonderfully satisfying twist. Told in a style that magnificently captures the colloquialisms and clichés of the 1930s and 1940s, <i>The Blind Assassin</i> is a richly layered and uniquely rewarding experience.<br /><br />It opens with these simple, resonant words: \"Ten days after the war ended, my sister drove a car off the bridge.\" They are spoken by Iris, whose terse account of her sister Laura's death in 1945 is followed by an inquest report proclaiming the death accidental. But just as the reader expects to settle into Laura's story, Atwood introduces a novel-within-a-novel. Entitled <i>The Blind Assassin</i>, it is a science fiction story told by two unnamed lovers who meet in dingy backstreet rooms. When we return to Iris, it is through a 1947 newspaper article announcing the discovery of a sailboat carrying the dead body of her husband, a distinguished industrialist.<br /><br />For the past twenty-five years, Margaret Atwood has written works of striking originality and imagination. In <i>The Blind Assassin</i>, she stretches the limits of her accomplishments as never before, creating a novel that is entertaining and profoundly serious. <i>The Blind Assassin</i> proves once again that Atwood is one of the most talented, daring, and exciting writers of our time. Like <i>The Handmaid's Tale</i>, it is destined to become a classic.",
         "book": {
-          "num_pages": "637",
+          "num_pages": "641",
           "_id": "78433"
         },
         "author_name": "Margaret Atwood",
@@ -2741,7 +2801,7 @@
         "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389l/4981._SY75_.jpg",
         "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389l/4981._SX98_.jpg",
         "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389l/4981._SY475_.jpg",
-        "book_description": "<i>Slaughterhouse-Five</i>, an American classic, is one of the world’s great antiwar books. Centering on the infamous World War II firebombing of Dresden, the novel is the result of what Kurt Vonnegut described as a twenty-three-year struggle to write a book about what he had witnessed as an American prisoner of war. It combines historical fiction, science fiction, autobiography, and satire in an account of the life of Billy Pilgrim, a barber’s son turned draftee turned optometrist turned alien abductee. As Vonnegut had, Billy experiences the destruction of Dresden as a POW. Unlike Vonnegut, he experiences time travel, or coming “unstuck in time.”<br /><br /> An instant bestseller, <i>Slaughterhouse-Five</i> made Kurt Vonnegut a cult hero in American literature, a reputation that only strengthened over time, despite his being banned and censored by some libraries and schools for content and language. But it was precisely those elements of Vonnegut’s writing—the political edginess, the genre-bending inventiveness, the frank violence, the transgressive wit—that have inspired generations of readers not just to look differently at the world around them but to find the confidence to say something about it. <br /><br /> Fifty years after its initial publication at the height of the Vietnam War, Vonnegut's portrayal of political disillusionment, PTSD, and postwar anxiety feels as relevant, darkly humorous, and profoundly affecting as ever, an enduring beacon through our own era’s uncertainties.",
+        "book_description": "<i>Slaughterhouse-Five</i>, an American classic, is one of the world’s great antiwar books. Centering on the infamous World War II firebombing of Dresden, the novel is the result of what Kurt Vonnegut described as a twenty-three year struggle to write a book about what he had witnessed as an American prisoner of war. It combines historical fiction, science fiction, autobiography, and satire in an account of the life of Billy Pilgrim, a barber’s son turned draftee turned optometrist turned alien abductee. Just as Vonnegut had, Billy experiences the destruction of Dresden as a POW. Unlike Vonnegut, he experiences time travel, or coming “unstuck in time.”<br /><br /> <i>Slaughterhouse-Five</i> made Kurt Vonnegut a cult hero in American literature, a reputation that only strengthened over time, despite his being banned and censored by some libraries and schools for content and language. But it was precisely those elements of Vonnegut’s writing — the political edginess, the genre-bending inventiveness, the frank violence, the transgressive wit — that have inspired generations of readers not just to look differently at the world around them but to find the confidence to say something about it. <br /><br /> Fifty years after its initial publication at the height of the Vietnam War, Vonnegut's portrayal of political disillusionment, PTSD, and postwar anxiety feels as relevant, darkly humorous, and profoundly affecting as ever, an enduring beacon through our own era’s uncertainties.",
         "book": {
           "num_pages": "275",
           "_id": "4981"
@@ -2845,10 +2905,10 @@
         "user_date_created": "Tue, 17 Aug 2021 05:13:37 -0700",
         "user_shelves": "to-read",
         "user_review": "",
-        "average_rating": "3.86",
+        "average_rating": "3.85",
         "book_published": "1929",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/207781.The_Art_Spirit?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Art Spirit\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405666033l/207781._SY75_.jpg\" /></a><br/>\n                                      author: Robert Henri<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.86<br/>\n                                      book published: 1929<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/08/17<br/>\n                                      shelves: to-read<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/207781.The_Art_Spirit?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Art Spirit\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405666033l/207781._SY75_.jpg\" /></a><br/>\n                                      author: Robert Henri<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.85<br/>\n                                      book published: 1929<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/08/17<br/>\n                                      shelves: to-read<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2875,10 +2935,10 @@
         "user_date_created": "Mon, 16 Aug 2021 11:23:13 -0700",
         "user_shelves": "to-read",
         "user_review": "",
-        "average_rating": "4.29",
+        "average_rating": "4.28",
         "book_published": "1979",
         "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/24113.G_del_Escher_Bach?utm_medium=api&amp;utm_source=rss\"><img alt=\"Gödel, Escher, Bach: An Eternal Golden Braid\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547125681l/24113._SY75_.jpg\" /></a><br/>\n                                      author: Douglas R. Hofstadter<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.29<br/>\n                                      book published: 1979<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/08/16<br/>\n                                      shelves: to-read<br/>\n                                      review: <br/><br/>\n                                      "
+          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/24113.G_del_Escher_Bach?utm_medium=api&amp;utm_source=rss\"><img alt=\"Gödel, Escher, Bach: An Eternal Golden Braid\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547125681l/24113._SY75_.jpg\" /></a><br/>\n                                      author: Douglas R. Hofstadter<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.28<br/>\n                                      book published: 1979<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/08/16<br/>\n                                      shelves: to-read<br/>\n                                      review: <br/><br/>\n                                      "
         }
       },
       {
@@ -2969,66 +3029,6 @@
         "book_published": "1967",
         "description": {
           "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude?utm_medium=api&amp;utm_source=rss\"><img alt=\"One Hundred Years of Solitude\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320._SX50_.jpg\" /></a><br/>\n                                      author: Gabriel García Márquez<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.10<br/>\n                                      book published: 1967<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/08/13<br/>\n                                      shelves: to-read<br/>\n                                      review: <br/><br/>\n                                      "
-        }
-      },
-      {
-        "guid": "https://www.goodreads.com/review/show/4173800576?utm_medium=api&utm_source=rss",
-        "pubDate": "Fri, 13 Aug 2021 15:06:08 -0700",
-        "title": "The Idiot",
-        "link": "https://www.goodreads.com/review/show/4173800576?utm_medium=api&utm_source=rss",
-        "book_id": "12505",
-        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657539107l/12505._SY75_.jpg",
-        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657539107l/12505._SY75_.jpg",
-        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657539107l/12505._SX98_.jpg",
-        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657539107l/12505._SY475_.jpg",
-        "book_description": "Returning to Russia from a sanitarium in Switzerland, the Christ-like epileptic Prince Myshkin finds himself enmeshed in a tangle of love, torn between two women—the notorious kept woman Nastasya and the pure Aglaia—both involved, in turn, with the corrupt, money-hungry Ganya. In the end, Myshkin’s honesty, goodness, and integrity are shown to be unequal to the moral emptiness of those around him. In her revision of the Garnett translation, Anna Brailovsky has corrected inaccuracies wrought by Garnett’s drastic anglicization of the novel, restoring as much as possible the syntactical structure of the original story.",
-        "book": {
-          "num_pages": "667",
-          "_id": "12505"
-        },
-        "author_name": "Fyodor Dostoevsky",
-        "isbn": "0679642420",
-        "user_name": "Harry",
-        "user_rating": "0",
-        "user_read_at": "",
-        "user_date_added": "Fri, 13 Aug 2021 15:06:08 -0700",
-        "user_date_created": "Fri, 13 Aug 2021 15:06:07 -0700",
-        "user_shelves": "to-read",
-        "user_review": "",
-        "average_rating": "4.22",
-        "book_published": "1869",
-        "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/12505.The_Idiot?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Idiot\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657539107l/12505._SY75_.jpg\" /></a><br/>\n                                      author: Fyodor Dostoevsky<br/>\n                                      name: Harry<br/>\n                                      average rating: 4.22<br/>\n                                      book published: 1869<br/>\n                                      rating: 0<br/>\n                                      read at: <br/>\n                                      date added: 2021/08/13<br/>\n                                      shelves: to-read<br/>\n                                      review: <br/><br/>\n                                      "
-        }
-      },
-      {
-        "guid": "https://www.goodreads.com/review/show/4146556446?utm_medium=api&utm_source=rss",
-        "pubDate": "Fri, 13 Aug 2021 15:03:57 -0700",
-        "title": "The Crucible",
-        "link": "https://www.goodreads.com/review/show/4146556446?utm_medium=api&utm_source=rss",
-        "book_id": "1346628",
-        "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434539568l/1346628._SY75_.jpg",
-        "book_small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434539568l/1346628._SY75_.jpg",
-        "book_medium_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434539568l/1346628._SY160_.jpg",
-        "book_large_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434539568l/1346628._SY475_.jpg",
-        "book_description": "En 1692, en la pequeña localidad de Salem (Massachusetts), corre el rumor de que una joven ha hecho un obsceno maleficio. Los habitantes se acusan unos a otros y son presa de una incontenible histeria colectiva, y entonces se inicia un juicio que tal vez propicie temibles venganzas... Arthur Miller concibió Las brujas de Salem en la época negra de la «caza de brujas» desplegada en Estados Unidos durante el macarthismo. Posteriormente colaboró en su adaptación al cine, titulada El crisol y cuyo guión se ofrece a continuación de la obra teatral.",
-        "book": {
-          "num_pages": "126",
-          "_id": "1346628"
-        },
-        "author_name": "Arthur Miller",
-        "isbn": "0140480781",
-        "user_name": "Harry",
-        "user_rating": "3",
-        "user_read_at": "Sun, 8 Aug 2021 00:00:00 +0000",
-        "user_date_added": "Fri, 13 Aug 2021 15:03:57 -0700",
-        "user_date_created": "Sat, 31 Jul 2021 16:43:07 -0700",
-        "user_shelves": "",
-        "user_review": "",
-        "average_rating": "3.88",
-        "book_published": "1953",
-        "description": {
-          "__cdata": "\n      <a href=\"https://www.goodreads.com/book/show/1346628.The_Crucible?utm_medium=api&amp;utm_source=rss\"><img alt=\"The Crucible\" src=\"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434539568l/1346628._SY75_.jpg\" /></a><br/>\n                                      author: Arthur Miller<br/>\n                                      name: Harry<br/>\n                                      average rating: 3.88<br/>\n                                      book published: 1953<br/>\n                                      rating: 3<br/>\n                                      read at: 2021/08/08<br/>\n                                      date added: 2021/08/13<br/>\n                                      shelves: <br/>\n                                      review: <br/><br/>\n                                      "
         }
       }
     ]
