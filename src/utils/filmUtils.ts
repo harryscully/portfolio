@@ -6,7 +6,7 @@ export function getFilmsByYear() {
     const filmsWithPosters = films.filter(film => film.poster)
     
     for (const film of filmsWithPosters) {
-        const year = film.Date.split("/")[2]
+        const year = film.Date.split("-")[0]
 
         if (!filmsByYear[year]) {
             filmsByYear[year] = []

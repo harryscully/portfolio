@@ -4,12 +4,13 @@ import Link from "next/link"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "films"
+    title: "films"
 }
 
 const filmsByYear = getFilmsByYear()
 
 export default function Films() {
+    console.log(Object.entries(filmsByYear))
     const filmElements = Object.entries(filmsByYear)
         .sort(([a], [b]) => Number(b) - Number(a))
         .map(([year, films]) => {
