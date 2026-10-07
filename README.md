@@ -4,7 +4,7 @@ My personal portfolio and hobby site, built with Next.js and Tailwind CSS.
 
 ## Built with
 
-- Next.js 15 (App Router)
+- Next.js 16 (App Router)
 - TypeScript
 - Tailwind CSS
 
@@ -27,7 +27,10 @@ src/
 │   ├── films.json
 │   └── projectData.ts
 └── utils/
+    ├── bookUtils.ts
     └── filmUtils.ts
+scripts/
+└── getMoviePoster.ts   # adds OMDB posters to films.json (needs OMDB_API_KEY)
 ```
 
 ## Pages

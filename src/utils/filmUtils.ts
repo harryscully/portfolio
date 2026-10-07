@@ -3,9 +3,7 @@ import films from "../data/films.json"
 export function getFilmsByYear() {
     const filmsByYear: Record<string, typeof films> = {}
     
-    const filmsWithPosters = films.filter(film => film.poster)
-    
-    for (const film of filmsWithPosters) {
+    for (const film of films) {
         const year = film.Date.split("-")[0]
 
         if (!filmsByYear[year]) {
@@ -16,12 +14,8 @@ export function getFilmsByYear() {
     }
 
     for (const year in filmsByYear) {
-        filmsByYear[year].sort((a, b) => {
-            const [aDay, aMonth, aYear] = a.Date.split("/")
-            const [bDay, bMonth, bYear] = b.Date.split("/")
-            return new Date(`${bYear}-${bMonth}-${bDay}`).getTime() -
-                new Date(`${aYear}-${aMonth}-${aDay}`).getTime()
-        })
+        // Dates are ISO (YYYY-MM-DD), so string comparison sorts chronologically
+        filmsByYear[year].sort((a, b) => b.Date.localeCompare(a.Date))
     }
 
     return filmsByYear

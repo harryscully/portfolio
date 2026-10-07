@@ -21,7 +21,7 @@ export default function Home() {
       <li className="flex gap-2 md:gap-4 items-center" key={link.href}>
         <Image className="w-4 h-4" src={folderIcon} alt="folder windows 98 icon" />
         <a
-          target="_blank"
+          target={link.href.startsWith("mailto:") ? undefined : "_blank"}
           href={link.href}
           className="hover:text-green-600"
         >
@@ -40,7 +40,7 @@ export default function Home() {
           {linkElements}
         </ul>
         <p className="leading-7">
-          Hi, I'm Harry — a fullstack developer from Welwyn Garden City with a master's in Physics and Chemistry from Durham University, now somehow writing JavaScript. By day I build internal tools and technologies for Dell'Ugo and Beyond Belief Brewing - a brewery that makes craft beer from manufacturing surplus, including fresh pasta, brownies and flapjacks (to name a few). By night (and most lunchtimes) I'm probably thinking about a quiz question. I compete in the Quiz League of London and the Online Quiz League, and I won University Challenge with Durham as the highest scoring individual in the <a target="_blank" className="font-semibold underline decoration-wavy hover:text-yellow-400 transition-all duration-200" href="https://www.youtube.com/watch?v=5zeIHCfC2Vk">final!</a> Outside of work and quizzing, you'll find me at the cinema with my girlfriend, suffering at the gym, or making slow progress through my ever-growing reading list.
+          Hi, I&apos;m Harry — a fullstack developer from Welwyn Garden City with a master&apos;s in Physics and Chemistry from Durham University, now somehow writing JavaScript. By day I build internal tools and technologies for Dell&apos;Ugo and Beyond Belief Brewing - a brewery that makes craft beer from manufacturing surplus, including fresh pasta, brownies and flapjacks (to name a few). By night (and most lunchtimes) I&apos;m probably thinking about a quiz question. I compete in the Quiz League of London and the Online Quiz League, and I won University Challenge with Durham as the highest scoring individual in the <a target="_blank" className="font-semibold underline decoration-wavy hover:text-yellow-400 transition-all duration-200" href="https://www.youtube.com/watch?v=5zeIHCfC2Vk">final!</a> Outside of work and quizzing, you&apos;ll find me at the cinema with my girlfriend, suffering at the gym, or making slow progress through my ever-growing reading list.
         </p>
       </div>
       <div className="w-60 my-20 hidden md:block">

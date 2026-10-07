@@ -10,7 +10,6 @@ export const metadata: Metadata = {
 const filmsByYear = getFilmsByYear()
 
 export default function Films() {
-    console.log(Object.entries(filmsByYear))
     const filmElements = Object.entries(filmsByYear)
         .sort(([a], [b]) => Number(b) - Number(a))
         .map(([year, films]) => {
@@ -21,7 +20,13 @@ export default function Films() {
                         {films.map(film => {
                             return (
                                 <a key={film["Letterboxd URI"]} href={film["Letterboxd URI"]} target="_blank" title={film.Name}>
-                                    <Image className="w-full h-auto" width={80} height={120} src={film?.poster ? film.poster : ""} alt={`film poster for ${film.Name}`} />
+                                    {film.poster ? (
+                                        <Image className="w-full h-auto" width={80} height={120} src={film.poster} alt={`film poster for ${film.Name}`} />
+                                    ) : (
+                                        <div className="flex items-center justify-center w-full aspect-[2/3] p-1 bg-neutral-100 text-neutral-500 text-[10px] leading-tight text-center hover:text-green-600 overflow-hidden">
+                                            {film.Name}
+                                        </div>
+                                    )}
                                 </a>
                             )
                         })}
