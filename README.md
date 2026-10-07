@@ -30,8 +30,18 @@ src/
     ├── bookUtils.ts
     └── filmUtils.ts
 scripts/
+├── syncMedia.ts        # pulls films (Letterboxd RSS) and books (Goodreads RSS)
 └── getMoviePoster.ts   # adds OMDB posters to films.json (needs OMDB_API_KEY)
 ```
+
+## Syncing films and books
+
+`.github/workflows/sync-media.yml` runs `npm run sync` daily and commits any changes to `src/data`, which triggers a redeploy. It can also be run manually from the Actions tab.
+
+- **Films** — new entries from the Letterboxd RSS feed are merged into `films.json`. The feed only covers recent activity, so `films.json` is the archive.
+- **Books** — `books.json` is rebuilt from the Goodreads RSS feed for the read shelf.
+
+Needs a `GOODREADS_RSS_KEY` secret (the `key=` value from the Goodreads RSS link). To run locally, add it to `.env`.
 
 ## Pages
 

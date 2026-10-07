@@ -1,0 +1,41 @@
+name: Sync films and books
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch: # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run sync
+        env:
+          GOODREADS_RSS_KEY: ${{ secrets.GOODREADS_RSS_KEY }}
+
+      # commit whatever synced, even if one feed failed
+      - name: Commit changes
+        if: ${{ !cancelled() }}
+        run: |
+          git add src/data
+          if git diff --cached --quiet; then
+            echo "Nothing new"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync films and books"
+          git pull --rebase
+          git push

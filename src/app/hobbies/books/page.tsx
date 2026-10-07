@@ -19,8 +19,8 @@ export default function Books() {
                     <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-8 gap-4">
                         {books.map(book => {
                             return (
-                                <a key={book.book_id} href={`https://www.goodreads.com/book/show/${book.book_id}`} target="_blank" title={book.title}>
-                                    <Image className="w-full h-auto" width={80} height={120} src={book.book_large_image_url} alt={`book cover for ${book.title}`} />
+                                <a key={book.id} href={`https://www.goodreads.com/book/show/${book.id}`} target="_blank" title={`${book.title} by ${book.author}`}>
+                                    <Image className="w-full h-auto" width={80} height={120} src={book.cover} alt={`book cover for ${book.title}`} />
                                 </a>
                             )
                         })}
