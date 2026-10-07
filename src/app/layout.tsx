@@ -8,11 +8,20 @@ import { Analytics } from "@vercel/analytics/next"
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://harryscully.com"),
   title: {
     default: "harry scully",
     template: "%s | harry scully"
   },
-  description: "Fullstack developer, quiz enthusiast, film watcher"
+  description: "Fullstack developer, quiz enthusiast, film watcher",
+  openGraph: {
+    siteName: "harryscully.com",
+    type: "website",
+    locale: "en_GB"
+  },
+  twitter: {
+    card: "summary_large_image"
+  }
 }
 
 export default function RootLayout({
