@@ -12,8 +12,8 @@ export const job: CVEntry[] = [
     companyOrInstitution: "Ugo Foods Group / Beyond Belief Brewing",
     date: "2023 - present",
     description:
-      "Designed and built internal systems including an asset & job management platform for our engineering team and a CRM tool for the brewery sales team. Developed SQL databases, automation workflows, and reporting tools. Also contributed commercially — producing sales analysis, building data visualisation tools, and creating digital marketing campaigns.",
-    relevantTech: ["SQL", "Database design", "Power Apps", "Power Automate", "CRM systems", "Automation"],
+      "Sole developer of HOPS, the brewery's CRM: rebuilt from Power Apps as a Next.js web app used daily by the sales and logistics teams, with Shopify, DHL and Microsoft 365 integrations. Also built an asset & job management platform for our engineering team, SQL databases, automation workflows, and reporting tools. Also contributed commercially — producing sales analysis, building data visualisation tools, and creating digital marketing campaigns.",
+    relevantTech: ["Next.js", "TypeScript", "Prisma", "SQL Server", "Database design", "Power Apps", "Power Automate"],
   },
   {
     title: "Front of House",

@@ -8,6 +8,13 @@ type Project = {
 
 export const projects: Project[] = [
   {
+    title: "HOPS",
+    url: "/projects/hops",
+    date: "2025 – present",
+    description: "A CRM for a craft brewery, used daily by its sales and logistics teams. Connected to Shopify, DHL and Microsoft 365.",
+    tech: ["Next.js", "TypeScript", "Prisma", "SQL Server"]
+  },
+  {
     title: "Task Dashboard",
     url: "https://task-dashboard-green-one.vercel.app/",
     date: "2026",
